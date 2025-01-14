@@ -2,5 +2,5 @@
 
 ## Lecture 1
 
-[Slides Lecture 1](EmpiricalIOChap12024trans.pdf)
+[Slides Lecture 1](chapter1.pdf)
 
