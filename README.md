@@ -6,4 +6,4 @@
 
 ## Lecture 2
 
-[Slides Lecture 1](chapter2.pdf)
+[Slides Lecture 2](chapter2.pdf)
