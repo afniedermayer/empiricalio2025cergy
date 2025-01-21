@@ -7,3 +7,7 @@
 ## Lecture 2
 
 [Slides Lecture 2](chapter2.pdf)
+
+## Lecture 3
+
+[Slides Lecture 3](chapter3.pdf)
