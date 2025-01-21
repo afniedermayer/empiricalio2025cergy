@@ -11,3 +11,7 @@
 ## Lecture 3
 
 [Slides Lecture 3](chapter3.pdf)
+
+## Problem Sets
+
+[Problem Set 1](problem_set1.pdf), due date: January 28, 2025
