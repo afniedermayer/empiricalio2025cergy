@@ -1,4 +1,4 @@
-# Course Information Empirical Industrial Organization 2025 at Cergy Paris Univerité
+# Course Information Empirical Industrial Organization 2025 at Cergy Paris Université
 
 ## Lecture 1
 
