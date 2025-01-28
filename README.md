@@ -1,16 +1,21 @@
 # Course Information Empirical Industrial Organization 2025 at Cergy Paris Université
 
-## Lecture 1
+## Chapter 1
 
-[Slides Lecture 1](chapter1.pdf)
+[Slides Chapter 1](chapter1.pdf)
 
-## Lecture 2
+## Chapter 2
 
-[Slides Lecture 2](chapter2.pdf)
+[Slides Chapter 2](chapter2.pdf)
 
-## Lecture 3
+## Chapter 3
 
-[Slides Lecture 3](chapter3.pdf)
+[Slides Chapter 3](chapter3.pdf)
+
+## Chapter 4
+
+[Slides Chapter 4](chapter4.pdf)
+[Notebook on Kernel Density Estimation](kernel-density-example.ipynb)
 
 ## Problem Sets
 
