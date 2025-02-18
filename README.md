@@ -18,8 +18,13 @@
 
 [Notebook on Kernel Density Estimation](kernel-density-example.ipynb)
 
+[Notebook on Kernel Density Estimation with Solution to Exercise 1](kernel-density-example-exercise1.ipynb)
+
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: January 28, 2025
 
 [Problem Set 2](problem_set2.pdf), due date: February 4, 2025
+
+Problem Set 3: Please solve Exercise 2 in the [Kernel Density Estimation Notebook](kernel-density-example-exercise1.ipynb) we worked on in class, due date: March 4, 2025
+
