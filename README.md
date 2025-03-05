@@ -39,3 +39,4 @@
 
 Problem Set 3: Please solve Exercise 2 in the [Kernel Density Estimation Notebook](kernel-density-example-exercise1.ipynb) we worked on in class, due date: March 4, 2025
 
+[Problem Set 4](problem_set4.pdf), due date: March 12, 2025
