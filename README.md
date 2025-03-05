@@ -20,6 +20,11 @@
 
 [Notebook on Kernel Density Estimation with Solution to Exercise 1](kernel-density-example-exercise1.ipynb)
 
+## Chapter 5
+
+[Slides Chapter 5](chapter5.pdf)
+
+
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: January 28, 2025
