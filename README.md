@@ -24,6 +24,10 @@
 
 [Slides Chapter 5](chapter5.pdf)
 
+## Chapter 6
+
+[Slides Chapter 6](chapter6.pdf)
+
 
 ## Problem Sets
 
