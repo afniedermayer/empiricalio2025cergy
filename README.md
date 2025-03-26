@@ -51,11 +51,15 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Notebook with BLP Exercise](exercise_blp.ipynb)
 
+[Notebook with BLP Exercise (with solution)](exercise_blp_solution.ipynb)
+
 ## Chapter 7
 
 [Slides Chapter 7](chapter7.pdf)
 
 [Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
+
+[Notebook on Maximization and Equation Solving (with solutions)](maximize_solve_solution.ipynb)
 
 [Notebook Nonlinear Pricing](nlp2.ipynb)
 
