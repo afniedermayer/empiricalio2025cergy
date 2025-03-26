@@ -1,5 +1,9 @@
 # Course Information Empirical Industrial Organization 2025 at Cergy Paris Université
 
+## Exam
+
+[Take Home Exam](take-home-exam.ipynb), deadline May 3
+
 ## Chapter 1
 
 [Slides Chapter 1](chapter1.pdf)
@@ -79,3 +83,7 @@ Please download the following notebooks, read them carefully, and execute the co
 Problem Set 3: Please solve Exercise 2 in the [Kernel Density Estimation Notebook](kernel-density-example-exercise1.ipynb) we worked on in class, due date: March 4, 2025
 
 [Problem Set 4](problem_set4.pdf), due date: March 12, 2025
+
+Problem Set 5: Please solve exercise in BLP Notebook
+
+Problem Set 6: Please solve exercise in [Nonlinear Pricing Notebook](nlp2.ipynb)
